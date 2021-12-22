@@ -1,0 +1,70 @@
+body{
+	margin: 0;
+	background-color: darkred;
+	font-size: 20px;
+	line-height: 20px;
+}
+
+header{
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+h1, h2{
+	font-family: 'Vujahday Script', cursive;
+}
+
+header h1{
+	color: steelblue;
+	font-size: 50px;
+}
+
+header img{
+	border-radius: 300px;
+	width: 600px;
+	border: 10px solid steelblue;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0;
+	font-family: 'Shadows Into Light', cursive;
+}
+
+main img{
+	max-width: 100%;
+}
+
+h2{
+	font-size: 30px;
+	color: steelblue;
+}
+
+a{
+	color: ghostwhite;
+}
+
+a:hover{
+	color: ghostwhite;
+	background-color: black;
+}
+
+footer{
+	text-align: center;
+	color: black;
+	font-size: 15px;
+	padding: 20px;
+}
+
+footer p{
+	margin: 0;
+}
+
+p.caption{
+	color: ghostwhite;
+	font-size: 15px;
+	font-style: italic;
+	margin-top: 0;
+}
